@@ -1,3 +1,4 @@
-# Sentiment Analysis
+# Document Classification
 
-A program that can predict sentiment of a given review.
+- build classifiers that will automatically tag new documents with appropriate category labels
+- predict sentiment of a given review
